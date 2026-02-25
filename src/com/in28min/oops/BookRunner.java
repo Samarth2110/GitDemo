@@ -28,6 +28,12 @@ public class BookRunner {
 
 		effectiveJava.setNoCopies(420);
 		System.out.println(effectiveJava.getNoCopies());
+		
+		effectiveJava.setNoCopies(520);
+		System.out.println(effectiveJava.getNoCopies());
+		
+		effectiveJava.setNoCopies(621);
+		System.out.println(effectiveJava.getNoCopies());
 
 	}
 
