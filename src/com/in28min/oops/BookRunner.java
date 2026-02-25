@@ -13,13 +13,16 @@ public class BookRunner {
 
 		effectiveJava.read();
 		System.out.println(effectiveJava.getNoCopies());
+		System.out.println("GitAdd");
 
 		cleanCode.read();
 		System.out.println(cleanCode.getNoCopies());
-
+		System.out.println("GitAdd");
+		
 		cleanCode.setNoCopies(280);
 		System.out.println(cleanCode.getNoCopies());
-
+		System.out.println("GitAdd");
+		
 		artOfComputerProg.setNoCopies(300);
 		System.out.println(artOfComputerProg.getNoCopies());
 
