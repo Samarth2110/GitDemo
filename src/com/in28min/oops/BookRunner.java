@@ -9,6 +9,7 @@ public class BookRunner {
 
 		artOfComputerProg.read();
 		System.out.println(artOfComputerProg.getNoCopies());
+		System.out.println("GitAdd");
 
 		effectiveJava.read();
 		System.out.println(effectiveJava.getNoCopies());
